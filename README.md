@@ -1,5 +1,2 @@
-# spring-boot-example
-```
-$ mvn clean 
-$ mvn spring-boot:run
-```
+IyBzcHJpbmctYm9vdC1leGFtcGxlCmBgYAokIG12biBjbGVhbiAKJCBtdm4g
+c3ByaW5nLWJvb3Q6cnVuCmBgYAo=
